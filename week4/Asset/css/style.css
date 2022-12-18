@@ -1,0 +1,15 @@
+.text-center {
+    text-align: center;
+}
+
+.round {
+    border-radius: 20px;
+}
+
+.image {
+    transition: 2s;
+}
+
+.image:hover {
+    transform: rotate(360deg) rotateX(360deg) rotateY(360deg);
+}
